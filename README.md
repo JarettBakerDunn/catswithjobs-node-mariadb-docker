@@ -7,6 +7,7 @@ This project uses a nodeJS server connected to a mariaDB database, running a jav
 The repository for the original javascript game can be found here: https://github.com/ecozbel/comp225-project-cats
 
 The game is playable! It is hosted on a digital ocean droplet here: 164.92.90.211:8080
+
 You can use the username 'Lisa' and the password 'password' to login. This user already has some cats stored in its gallery. You can also create a new account for a fresh start.
 
 
