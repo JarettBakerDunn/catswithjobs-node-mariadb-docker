@@ -1,0 +1,84 @@
+body {
+  background-color: black;
+  height: 100%;
+}
+
+p, h1 {
+  font-family: "tahoma", sans-serif;
+  outline-style: solid;
+  outline-width: 0px;
+  outline-color: white;
+  color: white;
+  text-align: center;
+  padding: 3px;
+  margin: 4px;
+}
+
+.stringinput{
+  font-family: "tahoma", sans-serif;
+  font-size: 14px;
+  outline-style: dashed;
+  outline-width: 2px;
+  outline-color: white;
+  padding: 3px;
+  background-color: black;
+  margin: 4px;
+  color : white;
+  border: 0px solid #ccc;
+}
+
+.stringinput:hover{
+  /*background-image: linear-gradient(to right, rgba(0,0,0,0) ,  rgba(0,0,0,0), rgba(255, 255, 255, 0.566));*/
+  outline-color: rgba(116, 255, 246, 0.766);
+}
+
+
+.contentbox{
+  font-family: "tahoma", sans-serif;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-color: white;
+  padding: 3px;
+  margin: auto;
+  margin-top: auto;
+  max-width: 429px;
+}
+
+.button{
+  font-family: "tahoma", sans-serif;
+  font-size: 14px;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-color: white;
+  padding: 3px;
+  background-color: black;
+  margin: 2px;
+  color : white;
+  border: 0px solid #ccc;
+  cursor: pointer;
+}
+
+.button:hover{
+  outline-color:  rgba(255, 116, 246, 0.766);
+}
+
+#loginErrorBlock{
+  visibility: collapse;
+  position:relative;
+  top: 9px;
+  font-family: "tahoma", sans-serif;
+  text-align: center;
+  outline-color: rgba(255, 116, 246, 0.766);
+  color: rgba(255, 116, 246, 0.766);
+  outline-width: 2px;
+  outline-style: solid;
+  font-size: 14px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 0px;
+  border: 0px solid #ccc;
+  background-color: black;
+  max-width: 429px;
+  margin-left: auto;
+  margin-right: auto;
+}
