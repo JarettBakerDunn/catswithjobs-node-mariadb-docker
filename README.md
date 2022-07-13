@@ -8,7 +8,9 @@ NOTE: The reason that this repository has so few commits is because it was creat
 
 The repository for the original javascript game can be found here: https://github.com/ecozbel/comp225-project-cats
 
-The game is playable! It is hosted on a digital ocean droplet at this location: 164.92.90.211:8080
+The game is playable! It is hosted on a digital ocean droplet here: 164.92.90.211:8080
+You can use the username 'Lisa' and the password 'password' to login. This user already has some cats stored in its gallery. You can also create a new account for a fresh start.
+
 
 ### Database Design:
 
