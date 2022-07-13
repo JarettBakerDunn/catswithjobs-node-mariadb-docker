@@ -26,5 +26,5 @@ While there is no set limit to the amount of cats which can be stored in the dat
 
 
 
-####NOTE: 
+#### NOTE: 
 The reason that this repository has so few commits is because it was created in order to publish the project's code––the repository which I used while writing the project contained log in credentials in the dockerfile, which I wanted to keep private. I also ended up making some changes to the code after I deployed the project to digital ocean (adding Env variables and editing SQL queries), which I wanted to reflect in this reposity. This reposity is a copy of the server which is currently running, with login information removed.
